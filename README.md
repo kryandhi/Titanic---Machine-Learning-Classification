@@ -10,10 +10,10 @@ While there was some element of luck involved in surviving, it seems some groups
 Source Image : Google
 
 The Process
-Data Preprocessing
-Data selection and transformation
-Data visualization
-Model creation and evaluation
+- Data Preprocessing
+- Data selection and transformation
+- Data visualization
+- Model creation and evaluation
 
 This repository contains the step-by-step plan I used to develop a machine learning model for a Kaggle competition. The predictions made by the model resulted in a score of 77.5%.
 
